@@ -3,13 +3,12 @@
 
 using namespace std;
 
-<<<<<<< HEAD
 void qualcosaltro() {
 	cout << "qualcosaltro\n";
-=======
+}
+
 void qualcosa() {
 	cout << "qualcosa\n";
->>>>>>> origin/main
 }
 
 int main() {
